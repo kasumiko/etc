@@ -1,7 +1,7 @@
-<h1>かすかたんbot 機能表</h1>
-<h2>稼働中<h2>
-<h3>To Timeline<h3>
-<p>土橋ガチャ　　
+#かすかたんbot 機能表
+##稼働中
+###To Timeline
+土橋ガチャ　　
 ゆいおぐらガチャ　　
 ・通常　　
 ・十連ガチャ　　
@@ -18,16 +18,16 @@
 かすかたんガチャ　　
 RIMFIRE　　
 うっぱスパムガチャ　　
-ゆーきブロックガチャ　　</p>
+ゆーきブロックガチャ　　
 
-<h3>To mention</h3>
+###To mention  
 Where am I　　
 Who am I　　
 What time　　
 これまでのふぁぼ　　
 名前変更　　
 
-<h2>停止中</h2>
+##停止中
 ゆーきキラー　　
 ゆーき（野田，駒木）死ね　　
 auto paku　　
