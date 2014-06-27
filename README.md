@@ -4,7 +4,7 @@
 ####起動中
 mikutter起動中に来たfollowedイベントに対して自動でフォロバします．
 ###To Timeline
-@Kasu_miko,@kasumikobotのメインTimeLime上の特定の文字列に反応します．
+@kasumikobotのメインTimeLime上の特定の文字列に反応します．
 ####ゆいおぐらガチャ  
 かすかたんbotのメイン機能(?)
 #####通常  
