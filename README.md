@@ -66,7 +66,7 @@ mikutter起動中に来たfollowedイベントに対して自動でフォロバ�
 ####Yo
 Yo
 ####suddenly death
-@kasumiko suddenly hogehogeで突然の死っぽく返します． 現在改行，半角には対応してないもよう
+"@kasumikobot suddenly hogehoge"で突然の死っぽく返します． 現在改行，半角には対応してないもよう
 
 ##停止中
 諸事情で停止中の機能です．
