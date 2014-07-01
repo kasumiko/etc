@@ -3,6 +3,8 @@
 ###Auto follow back
 ####起動中
 mikutter起動中に来たfollowedイベントに対して自動でフォロバします．
+###時報
+ただの時報です(脱mikutter計画第一弾)
 ###To Timeline
 @kasumikobotのメインTimeLime上の特定の文字列に反応します．
 ####ゆいおぐらガチャ  
