@@ -8,7 +8,7 @@ mikutter起動中に来たfollowedイベントに対して自動でフォロバ�
 ###おしゃべり
 10分に一回適当におしゃべりします(脱mikutter計画第二弾)  
 ###To Timeline
-@kasumikobotのメインTimeLime上の特定の文字列に反応します．
+@kasumikobotのメインTimeLine上の特定の文字列に反応します．
 ####ゆいおぐらガチャ  
 かすかたんbotのメイン機能(?)
 #####通常  
