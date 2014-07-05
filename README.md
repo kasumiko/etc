@@ -6,7 +6,8 @@ mikutter起動中に来たfollowedイベントに対して自動でフォロバ�
 ###時報
 ただの時報です(脱mikutter計画第一弾)
 ###おしゃべり
-10分に一回適当におしゃべりします(脱mikutter計画第二弾)  
+10分に一回適当におしゃべりします(脱mikutter計画第二弾)
+***
 ###To Timeline
 @kasumikobotのメインTimeLine上の特定の文字列に反応します．
 ####ゆいおぐらガチャ  
@@ -53,6 +54,7 @@ mikutter起動中に来たfollowedイベントに対して自動でフォロバ�
 言ったよね？
 ####ラーメン食べたい
 "ラーメン食べたい"に反応して，おすすめのラーメンを返します．  
+***
 ###To mention
 @kasumikobotのリプライ欄上の特定の文字列に反応します．
 ####Where am I  
@@ -74,6 +76,7 @@ Yo
 "@kasumikobot suddenly hogehoge"で突然の死っぽく返します． 現在改行には対応してないもよう　バグまみれ
 ####Light my fire
 "@kasumikobot Light my fire ほげ"でオタクが燃えます． 全角にしか対応してない バグのかたまり  
+***
 ##停止中
 諸事情で停止中の機能です．
 ####ゆーきキラー  
