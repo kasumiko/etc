@@ -5,6 +5,8 @@
 mikutter起動中に来たfollowedイベントに対して自動でフォロバします．
 ###時報
 ただの時報です(脱mikutter計画第一弾)
+###おしゃべり
+10分に一回適当におしゃべりします(脱mikutter計画第二弾)  
 ###To Timeline
 @kasumikobotのメインTimeLime上の特定の文字列に反応します．
 ####ゆいおぐらガチャ  
@@ -69,8 +71,9 @@ mikutter起動中に来たfollowedイベントに対して自動でフォロバ�
 ####Yo
 Yo
 ####suddenly death
-"@kasumikobot suddenly hogehoge"で突然の死っぽく返します． 現在改行，半角には対応してないもよう
-
+"@kasumikobot suddenly hogehoge"で突然の死っぽく返します． 現在改行には対応してないもよう　バグまみれ
+####Light my fire
+"@kasumikobot Light my fire ほげ"でオタクが燃えます． 全角にしか対応してない バグのかたまり  
 ##停止中
 諸事情で停止中の機能です．
 ####ゆーきキラー  
