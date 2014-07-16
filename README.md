@@ -30,7 +30,7 @@ nが一定以上の数字の場合は拒否します．
 /今日のアルカナ/に反応して，あなたのコミュニティを返します．
 ####出席（欠席）ガチャ
 "出席ガチャ"等に反応して，あなたの1~6限の出席(欠席)予定を返します．
-####お返事 (via mikutter)
+####お返事 
 #####かすかたんbot
 /かすかたんbot/に反応して，はいと返事をします．
 #####現在の名前
@@ -56,7 +56,7 @@ nが一定以上の数字の場合は拒否します．
 ####ラーメン食べたい 
 "ラーメン食べたい"に反応して，おすすめのラーメンを返します．  
 ***
-###To mention (via mikutter)
+###To mention 
 @kasumikobotのリプライ欄上の特定の文字列に反応します．
 ####Where am I  
 /Where am I/に反応して，Userのlocationを返します．
@@ -64,16 +64,16 @@ nが一定以上の数字の場合は拒否します．
 /Who am I/に反応して，UserのNameを返します．
 ####What time  
 /What time/に反応して，現在の時刻を返します．
-####これまでのふぁぼ  
+####これまでのふぁぼ  (via mikutter)
 /これまでのふぁぼ/に反応して，Userがこれまでにふぁぼったツイート数の概数を返します．
-####名前変更  
+####名前変更  (via mikutter)
 (@kasumikobot)を含むkasumikobotへのリプライに反応して，kasumikobotの名前を(@kasumikobot)を取り除いた文字列に変更します．  
 文字数制限は20文字で，それより多い文字は切り捨てられます．  
 ####ぬるぽ
 ｶﾞｯ
 ####Yo
 Yo
-####suddenly death (via mikutter)
+####suddenly death 
 "@kasumikobot suddenly hogehoge"で突然の死っぽく返します． 全角にしか対応してない バグのかたまり  
 ####Light my fire
 "@kasumikobot Light my fire ほげ"でオタクが燃えます． 全角にしか対応してない バグのかたまり  
