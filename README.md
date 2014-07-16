@@ -73,9 +73,9 @@ nが一定以上の数字の場合は拒否します．
 ｶﾞｯ
 ####Yo
 Yo
-####suddenly death
+####suddenly death (via mikutter)
 "@kasumikobot suddenly hogehoge"で突然の死っぽく返します． 現在改行には対応してないもよう　バグまみれ
-####Light my fire
+####Light my fire (via mikutter)
 "@kasumikobot Light my fire ほげ"でオタクが燃えます． 全角にしか対応してない バグのかたまり  
 ***
 ##停止中
