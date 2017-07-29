@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
-#include <limit.h>
+#include <limits.h>
 #include <stdbool.h>
 #include <stddef.h>
 //-------------------------------
@@ -41,3 +41,13 @@ QUEUE_TYPE deque(QUEUE_TYPE *queue, int *head, int *tail, int size) {
     }
 }
 //-------------------------------
+//power for integer
+int ipow(int a;int n)
+{
+  int powered=1;
+  int i;
+  for(i=0;i<n;++i)
+  {
+    powered*=a;
+  }
+}
