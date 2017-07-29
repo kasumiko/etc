@@ -9,7 +9,6 @@
 //simplequeue(queue,tail,head) 
 typedef double QUEUE_TYPE;
 typedef double REAL;
-REAL hoge;
 int tail,head,n;
 QUEUE_TYPE *queue;
 void inique(QUEUE_TYPE *queue,int tail,int head,int size){
