@@ -7,10 +7,10 @@
 #include <stddef.h>
 //-------------------------------
 //simplequeue(queue,tail,head) 
-#define QUEUE_TYPE double
+typedef double QUEUE_TYPE;
 int tail,head,n;
 QUEUE_TYPE queue[n];
-void inique(QUEUE_TYPE *queue,int tail,int head,size_t size){
+void inique(QUEUE_TYPE *queue,int tail,int head,int size){
   int i;
   for(i=0;i<size;++i)
   {
@@ -42,12 +42,22 @@ QUEUE_TYPE deque(QUEUE_TYPE *queue, int *head, int *tail, int size) {
 }
 //-------------------------------
 //power for integer
-int ipow(int a;int n)
+int ipow(int x,int n)
 {
-  int powered=1;
-  int i;
-  for(i=0;i<n;++i)
+  int ret = 1;
+  while(0<n)
   {
-    powered*=a;
+    if(n%2==0)
+    {
+      x *= x;
+      n >>= 1;
+    }
+    else
+    {
+      ret *= x ;
+      --n;
+    }
   }
+  return ret;
 }
+
